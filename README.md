@@ -1,3 +1,3 @@
-# moominci.io
+# moominci
 
 hio
